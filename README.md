@@ -3,7 +3,7 @@
 ## **📌 Problem Statement**
 Food Delivery Cost and Profitability Analysis is a comprehensive evaluation aimed at understanding and optimizing the financial dynamics of a food delivery operation. The goal is to identify areas where the service can reduce costs, increase revenue, and implement pricing or commission strategies that enhance profitability.
 
-## **Dataset**
+## **🗂 Dataset**
 The dataset contains comprehensive details on Food orders:
 ➢ Order ID: Unique identifier for each order
 ➢ Customer ID: Unique identifier for each customer
@@ -19,8 +19,9 @@ The dataset contains comprehensive details on Food orders:
 ➢ Refunds/Chargebacks: Any refunds or chargebacks associated with the order
 
 
-## **Tools & Technologies**
+## **🛠 Tools & Technologies**
 Excel
+
 Python
 
 
