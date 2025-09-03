@@ -6,16 +6,27 @@ Food Delivery Cost and Profitability Analysis is a comprehensive evaluation aime
 ## **🗂 Dataset**
 The dataset contains comprehensive details on Food orders:
 ➢ Order ID: Unique identifier for each order
+
 ➢ Customer ID: Unique identifier for each customer
+
 ➢ Restaurant ID: Unique identifier for each restaurant
+
 ➢ Order Date and Time: Date and time when the order was placed
+
 ➢ Delivery Date and Time: Date and time when the delivery was made
+
 ➢ Order Value: Total value of the order
+
 ➢ Delivery Fee: Fee associated with the delivery
-➢ Payment Method: The method used for payment (e.g., Credit Card, Digital Wallet, Cash on Delivery).
+
+➢ Payment Method: The method used for payment (e.g., Credit Card, Digital Wallet, Cash on Delivery)
+
 ➢ Discounts and Offers: Any discounts or offers applied to the order
+
 ➢ Commission Fee: Fee charged as a commission
+
 ➢ Payment Processing Fee: The fee associated with processing the payment
+
 ➢ Refunds/Chargebacks: Any refunds or chargebacks associated with the order
 
 
